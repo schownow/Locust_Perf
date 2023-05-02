@@ -1,0 +1,5 @@
+locust
+locust-plugins
+black
+greenlet==1.1.3
+gevent==21.8.0
